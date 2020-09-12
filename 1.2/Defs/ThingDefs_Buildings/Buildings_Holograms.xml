@@ -30,6 +30,7 @@
 		<minifiedDef>MinifiedThing</minifiedDef>
 		
 		<statBases>
+			<WorkToMake>12000</WorkToMake>
 			<MaxHitPoints>100</MaxHitPoints>
 			<Flammability>0.5</Flammability>
 			<SellPriceFactor>1.30</SellPriceFactor>
